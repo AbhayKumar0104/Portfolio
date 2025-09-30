@@ -191,7 +191,7 @@ const ProjectCard = ({ project }) => {
           View Code
         </Button>
         <Button href={project.webapp} target="_blank">
-          View App
+          View Website
         </Button>
       </Buttons>
     </Card>
