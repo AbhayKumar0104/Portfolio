@@ -173,7 +173,7 @@ export const projects = [
       "EmailJS",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/AbhayKumar0104/Portfolio",
+    webapp: "https://abhaykumarportfolio-sigma.vercel.app/",
   },
 ];
