@@ -20,6 +20,10 @@ const Card = styled.div`
     box-shadow: 0 0 50px 4px rgba(0, 0, 0, 0.6);
     filter: brightness(1.1);
   }
+    @media (max-width: 768px) {
+    width: 100%;
+    padding: 20px 16px;
+  }
 `;
 
 const Image = styled.img`
